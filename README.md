@@ -1,3 +1,18 @@
+
+# Deploy Config
+```bash
+# root directory
+leave empty
+
+# build command
+npm install && npm run build
+
+# publish directory
+dist
+```
+
+
+
 ## Usage
 
 Those templates dependencies are maintained via [pnpm](https://pnpm.io) via `pnpm up -Lri`.
